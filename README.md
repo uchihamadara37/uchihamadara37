@@ -1,4 +1,4 @@
-# 👋 Bismillaah, I'm Andrea Alfian. a Fullstack Developer & Design Enthusiast
+# 👋 Bismillaah, I'm Andrea Alfian | Fullstack Developer
 
 Crafting digital experiences with passion and precision
 
