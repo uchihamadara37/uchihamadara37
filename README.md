@@ -31,4 +31,6 @@ A versatile developer passionate about creating seamless, innovative solutions. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchihamadara37&layout=compact&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchihamadara37&langs_count=10&hide=html,css&layout=compact&theme=radical)
+
 
