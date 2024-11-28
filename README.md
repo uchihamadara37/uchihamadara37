@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Nama Anda]
+# I`am Andrea
 
 ## 🚀 Tech Stack
 
