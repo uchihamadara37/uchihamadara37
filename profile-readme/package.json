@@ -1,6 +1,7 @@
 {
   "name": "profile-readme",
   "version": "0.1.0",
+  "homepage": "https://uchihamadara37.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
