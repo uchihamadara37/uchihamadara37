@@ -29,6 +29,6 @@ Crafting digital experiences with passion and precision
 
 A versatile developer passionate about creating seamless, innovative solutions. Skilled in both frontend and backend technologies, with a strong eye for design and user experience.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchihamadara37&layout=compact&theme=radical)
 
 
