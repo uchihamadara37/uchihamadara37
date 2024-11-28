@@ -26,8 +26,3 @@ Seorang pengembang fullstack yang bersemangat dengan keahlian di frontend, backe
 
 ## 🌟 Projects
 [Tambahkan link atau deskripsi singkat proyek Anda]
-
-## 📫 Contact Me
-- Email: [email Anda]
-- LinkedIn: [link LinkedIn]
-- Portfolio: [link portfolio]
