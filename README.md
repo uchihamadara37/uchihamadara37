@@ -21,8 +21,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 💡 About Me
-Seorang pengembang fullstack yang bersemangat dengan keahlian di frontend, backend, dan desain. Saya menciptakan solusi digital inovatif yang menggabungkan estetika dan fungsionalitas.
 
-## 🌟 Projects
-[Tambahkan link atau deskripsi singkat proyek Anda]
