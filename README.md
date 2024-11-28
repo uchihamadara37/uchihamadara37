@@ -1,10 +1,4 @@
-## Hi there 👋
-
 # My Profile
 
-This is my interactive profile page built with React.
-
-## Quick Links
-- [View Interactive Profile](https://username.github.io)
-- [Projects](#)
-- [Contact](#)
+## Interactive Profile
+<iframe src="./index.html" width="100%" height="600px" frameborder="0"></iframe>
